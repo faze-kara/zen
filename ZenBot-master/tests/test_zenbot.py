@@ -1,4 +1,4 @@
-from zenbot import __version__
+from THE KRU BOT import __version__
 
 
 def test_version():
