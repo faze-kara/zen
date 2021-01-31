@@ -1,8 +1,8 @@
 {
-  "token": "",
-  "description": "",
-  "status": "",
-  "invite": "",
+  "token": "NzkwMTAzOTMwMTEzMjI4ODYx.X97voA._KweSZ8dLv2-kcpnjorhPOzzMcI",
+  "description": "I'm here to help",
+  "status": "Online",
+  "invite": "https://discord.com/api/oauth2/authorize?client_id=790103930113228861&permissions=8&scope=bot",
 
   "database": {
     "host": "",
